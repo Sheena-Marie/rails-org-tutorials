@@ -1,1 +1,1 @@
-# rails-org-tutorials
+# rails-org-tutorial
